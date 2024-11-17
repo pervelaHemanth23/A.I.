@@ -54,6 +54,11 @@ The enemy also rotates towards the player when following.
 3. Custom Backgrounds
 
 
+## AutoPilot
+
+This A.I. will rotate and move the player towards a specified object. The code is not very flexible and I have added the comment *// Repeated* in the places where the code has been repeated for a different GameObject
+I have attempted to use coroutines in Driver.cs Script but there are a few issues with coroutine management and interruptions. Right now, the OldDriver.cs script is working as intended.
+
 *Downlaod and extract Enemies.rar and run Enemies.exe*
 
 *I will upload more enemy varieties soon.*
