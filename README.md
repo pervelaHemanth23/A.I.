@@ -59,7 +59,7 @@ The enemy also rotates towards the player when following.
 This A.I. will rotate and move the player towards a specified object. The code is not very flexible and I have added the comment *// Repeated* in the places where the code has been repeated for a different GameObject
 I have attempted to use coroutines in Driver.cs Script but there are a few issues with coroutine management and interruptions. Right now, the OldDriver.cs script is working as intended.
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/pervelaHemanth23/AI/blob/main/VIDEOS/AI.mp4)
+https://github.com/pervelaHemanth23/AI/blob/main/VIDEOS/AI.mp4
 
 *Downlaod and extract Enemies.rar and run Enemies.exe*
 
